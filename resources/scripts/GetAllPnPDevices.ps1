@@ -3,7 +3,7 @@
 $currentDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 # Define output file name
-$outputFile = Join-Path $currentDirectory "..\PnPDevices.json"
+$outputFile = Join-Path $currentDirectory "..\..\PnPDevices.json"
 
 # Execute pnputil command and capture output
 $pnputilOutput = & pnputil /enum-devices

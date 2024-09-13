@@ -1,10 +1,6 @@
 {
   "media": {
-    "headset": [ "Logitech PRO X Wireless Gaming Headset" ],
-    "microphone": [ "USB PnP Sound Device" ]
-  },
-  "internet": {
-    "wlan": [ "NVIDIA Broadcast" ],
-    "wifi": [ "Ugreen WIFI6 Wireless USB NIC" ]
+    "game_mod": [ "Logitech PRO X Wireless Gaming Headset" ],
+    "work_mod": [ "USB PnP Sound Device", "NVIDIA Broadcast" ]
   }
 }

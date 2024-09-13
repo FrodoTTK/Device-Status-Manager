@@ -60,7 +60,8 @@ namespace DeviceManager
             notifyIcon = new NotifyIcon
             {
                 Text= "Device Status Manager",
-                Icon = new Icon(Directory.GetCurrentDirectory() + "\\resources\\icons\\appicon.ico"),
+                Icon = SystemIcons.Application,
+                //Icon = new Icon(Directory.GetCurrentDirectory() + "\\resources\\icons\\appicon.ico"),
                 Visible = true,
                 ContextMenuStrip = new ContextMenuStrip()
             };
