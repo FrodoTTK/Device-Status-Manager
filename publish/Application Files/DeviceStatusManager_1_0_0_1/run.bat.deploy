@@ -1,0 +1,17 @@
+﻿@echo off
+net session >nul 2>&1
+if %errorLevel% == 0 goto :admin
+set "tempVBS=%temp%\elevate.vbs"
+echo Set UAC = CreateObject^("Shell.Application"^) > "%tempVBS%"
+echo UAC.ShellExecute "cmd.exe", "/c %~s0 %*", "", "runas", 1 >> "%tempVBS%"
+"%tempVBS%"
+del "%tempVBS%"
+exit /b
+
+:admin
+
+set "current_dir=%~dp0"
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%current_dir%ps1\GetAllPnPDevices.ps1"
+
+"%current_dir%DeviceStatusManager.exe"

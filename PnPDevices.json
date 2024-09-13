@@ -1,0 +1,3460 @@
+[
+    {
+        "ClassGUID":  "{5989fce8-9cd0-467d-8a6a-5419e31529d4}",
+        "ClassName":  "AudioProcessingObject",
+        "DriverName":  "oem18.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Logitech G series",
+        "DeviceDescription":  "Logitech Blue VO!CE Effect",
+        "InstanceID":  "SWD\\DRIVERENUM\\BlueVoiceCapture\u00267\u002628c00194\u00260"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Remote Audio",
+        "InstanceID":  "SWD\\MMDEVAPI\\{3.0.0.00000001}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem23.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "datronicsoft",
+        "DeviceDescription":  "spacedesk virtual HID Device",
+        "InstanceID":  "{0511CEC1-0EB4-4ADE-9284-CD36606C3906}\\VID_DATRONICSOFT_PID_SPACEDESK_DRIVER_HID_0001\\{00000000-0000-0000-0000-000000000000}7"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A4D",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A4D\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026A9"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col01\\8\u00262fb6ff7c\u00261\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e968-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Display",
+        "DriverName":  "oem72.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Shanghai Best Oray Information Technology Co., Ltd.",
+        "DeviceDescription":  "OrayIddDriver Device",
+        "InstanceID":  "ROOT\\DISPLAY\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\1"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\2"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\5"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_048D\u0026PID_5702\u0026Col01\\6\u002639529d13\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "oem83.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Logitech",
+        "DeviceDescription":  "G913 TKL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C343\\F84102D8"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Display (NVIDIA High Definition Audio)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{3031fbda-768f-4a81-b9c5-b3cdb94d9c56}"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "ksfilter.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Streaming Service Proxy",
+        "InstanceID":  "SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}\\{3C0D501A-140B-11D1-B40F-00A0C9223196}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) PCI Express Root Port #1 - 7A38",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A38\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026E0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant device",
+        "InstanceID":  "HID\\HID_DEVICE_SYSTEM_VHF\\8\u0026d94d60a\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usb.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard USB Host Controller)",
+        "DeviceDescription":  "Unknown USB Device (Device Descriptor Request Failed)",
+        "InstanceID":  "USB\\VID_0000\u0026PID_0002\\5\u002630741cdd\u00260\u00266"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netvwifimp.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Wi-Fi Direct Virtual Adapter",
+        "InstanceID":  "{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\\vwifimp_wfd\\7\u002639e67680\u00260\u002611"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netvwifimp.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Wi-Fi Direct Virtual Adapter #2",
+        "InstanceID":  "{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\\vwifimp_wfd\\7\u002639e67680\u00260\u002612"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usb.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB Host Controller)",
+        "DeviceDescription":  "USB Composite Device",
+        "InstanceID":  "USB\\VID_08BB\u0026PID_2902\\6\u0026a12abd0\u00260\u00262"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col03\\7\u002626b58c47\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col01\\8\u002628678780\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "G913 TKL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C343\u0026LAMPARRAY\\7\u00262641e52a\u00260\u0026F84102D8_Slot00"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fan",
+        "InstanceID":  "ACPI\\PNP0C0B\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fan",
+        "InstanceID":  "ACPI\\PNP0C0B\\1"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fan",
+        "InstanceID":  "ACPI\\PNP0C0B\\2"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fan",
+        "InstanceID":  "ACPI\\PNP0C0B\\3"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fan",
+        "InstanceID":  "ACPI\\PNP0C0B\\4"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_02\u0026Col02\\8\u0026983c28e\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#0000000000004400"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Wi-Fi",
+        "InstanceID":  "SWD\\RADIO\\{8209F74A-D9B3-48AD-9804-0C6D72945978}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "acpipagr.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Processor Aggregator",
+        "InstanceID":  "ACPI\\ACPI000C\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microphone (NVIDIA Broadcast)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.1.00000000}.{41d93daa-b808-42fe-bc7e-03da150dbd69}"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Root Print Queue",
+        "InstanceID":  "SWD\\PRINTENUM\\PrintQueues"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_00\\8\u002622bb60d6\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_02\u0026Col01\\8\u0026983c28e\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "monitor.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard monitor types)",
+        "DeviceDescription":  "Generic Monitor (Display)",
+        "InstanceID":  "DISPLAY\\BOE1080\\5\u0026df7ad6\u00260\u0026UID4352"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microphone (2- Logitech PRO X Wireless Gaming Headset)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.1.00000000}.{aa7fc34e-2474-4bd1-8c65-746c6c2aeb89}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem41.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Innovation Platform Framework Processor Participant",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_A71D\u0026SUBSYS_88881458\u0026REV_01\\3\u002611583659\u00260\u002620"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#0000006401A00000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "volmgr.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume Manager",
+        "InstanceID":  "ROOT\\volmgr\\0000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col02\\8\u002610a3fb3b\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_01\\7\u00262e743af2\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) SPI (flash) Controller - 7A24",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A24\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026FD"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "c_swcomponent.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Intel(R) Innovation Platform Framework Base Provider",
+        "InstanceID":  "SWD\\DRIVERENUM\\{002c4697-5b34-4222-b9c9-6277b0869281}#IpfBaseProviderComponent\u00264\u00261a3a5bde\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\u0026MI_03\\6\u00262a35bdf\u00260\u00260003"
+    },
+    {
+        "ClassGUID":  "{4d36e968-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Display",
+        "DriverName":  "oem75.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "NVIDIA",
+        "DeviceDescription":  "NVIDIA GeForce RTX 4070 SUPER",
+        "InstanceID":  "PCI\\VEN_10DE\u0026DEV_2783\u0026SUBSYS_51381462\u0026REV_A1\\4\u00268bd6e8d\u00260\u00260008"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\u0026MI_03\\6\u002661113f7\u00260\u00260003"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col03\\7\u00262dc728f4\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col03\\8\u002613d8b7a4\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{f2e7dd72-6468-4e36-b6f1-6488f42c1b52}",
+        "ClassName":  "Firmware",
+        "DriverName":  "c_firmware.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "System Firmware",
+        "InstanceID":  "UEFI\\RES_{00000000-0000-0000-0000-000000000000}\\0"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00260\u00262_Slot00"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "oem29.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Dell Inc.",
+        "DeviceDescription":  "Alienware AW2724DM(DisplayPort1 HDR)",
+        "InstanceID":  "DISPLAY\\DELA221\\5\u0026df7ad6\u00260\u0026UID4353"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (PPPOE)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_PPPOEMINIPORT"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "monitor.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard monitor types)",
+        "DeviceDescription":  "Generic Monitor",
+        "InstanceID":  "DISPLAY\\Default_Monitor\\1\u00261efbcd86\u00261\u0026UID256"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "monitor.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard monitor types)",
+        "DeviceDescription":  "Generic Monitor",
+        "InstanceID":  "DISPLAY\\Default_Monitor\\1\u00261efbcd86\u00261\u0026UID257"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_01\u0026Col03\\8\u00263a7eed1b\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microphone (Steam Streaming Microphone)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.1.00000000}.{4ab66854-e262-4872-9377-7a01d4ded7b3}"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot00"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot01"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot02"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot03"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot04"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot05"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u002631170c2b\u00260\u00262_Slot06"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "basicdisplay.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard display types)",
+        "DeviceDescription":  "Microsoft Basic Display Driver",
+        "InstanceID":  "ROOT\\BasicDisplay\\0000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\INTC816\u0026Col05\\3\u00261535a34c\u00260\u00260004"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "_APAC_Mono_Follow_You (redirected 1)",
+        "InstanceID":  "SWD\\PRINTENUM\\{23D035C4-9DEC-469E-8F37-BCCB30A1ED6F}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Sleep Button",
+        "InstanceID":  "ACPI\\PNP0C0E\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "wmiacpi.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Windows Management Interface for ACPI",
+        "InstanceID":  "ACPI\\PNP0C14\\GSADEV0"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#0000006400A05000"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#0000000001000000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C343\u0026MI_00\\7\u00262641e52a\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem53.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Realtek",
+        "DeviceDescription":  "Realtek Audio Universal Service",
+        "InstanceID":  "SWD\\DRIVERENUM\\{c3a63edd-2d27-4b66-b155-5e94b43d926a}#RealtekSRV\u00265\u00262e2ee1d0\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_01\u0026Col03\\7\u002631bff062\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem47.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Dynamic Tuning Technology User Interface Extension Component",
+        "InstanceID":  "SWD\\DRIVERENUM\\{38b5f18e-a0a5-45eb-8b95-eb800872d528}#DttUiExtComponent\u00264\u00261a3a5bde\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem18.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Logitech G series",
+        "DeviceDescription":  "Logitech PRO X Wireless Gaming Headset",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\u0026MI_00\\6\u00262a35bdf\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col0D\\3\u00261535a34c\u00260\u0026000c"
+    },
+    {
+        "ClassGUID":  "{4d36e967-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "DiskDrive",
+        "DriverName":  "disk.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard disk drives)",
+        "DeviceDescription":  "aigo U330 USB Device",
+        "InstanceID":  "USBSTOR\\Disk\u0026Ven_aigo\u0026Prod_U330\u0026Rev_PMAP\\99F0C90D0C86E453\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e967-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "DiskDrive",
+        "DriverName":  "disk.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard disk drives)",
+        "DeviceDescription":  "WD Blue SN570 2TB SSD",
+        "InstanceID":  "SCSI\\Disk\u0026Ven_NVMe\u0026Prod_WD_Blue_SN570_2T\\5\u00261e3c8ba3\u00260\u0026000000"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem81.inf",
+        "Status":  "Disabled",
+        "ManufacturerName":  "Logitech G series",
+        "DeviceDescription":  "Logitech PRO X Wireless Gaming Headset",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\u0026MI_00\\6\u002661113f7\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_01\\7\u00262e743af2\u00261\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "oem21.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Netease UU V9.21",
+        "DeviceDescription":  "Netease UU TAP-Win32 Adapter V9.21",
+        "InstanceID":  "ROOT\\NET\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "oem73.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "TAP-Windows Provider V9",
+        "DeviceDescription":  "TAP-Windows Adapter V9",
+        "InstanceID":  "ROOT\\NET\\0001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Thermal Zone",
+        "InstanceID":  "ACPI\\ThermalZone\\TZ00"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Thermal Zone",
+        "InstanceID":  "ACPI\\ThermalZone\\TZ10"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "umbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "UMBus Enumerator",
+        "InstanceID":  "UMB\\UMB\\1\u0026841921d\u00260\u0026TERMINPUT_BUS"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "wmiacpi.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Windows Management Interface for ACPI",
+        "InstanceID":  "ACPI\\PNP0C14\\DSarDev"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col01\\8\u00262b9c43e9\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_045E\u0026PID_0B12\u0026IG_00\\00\u002600\u00260000628C0080ED7E"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col01\\8\u00261a537b34\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{f2e7dd72-6468-4e36-b6f1-6488f42c1b52}",
+        "ClassName":  "Firmware",
+        "DriverName":  "c_firmware.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Device Firmware",
+        "InstanceID":  "UEFI\\RES_{86a885ee-d71e-2ed6-0fc1-9d6ccc9677eb}\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e965-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "CDROM",
+        "DriverName":  "cdrom.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard CD-ROM drives)",
+        "DeviceDescription":  "Microsoft Virtual DVD-ROM",
+        "InstanceID":  "SCSI\\CdRom\u0026Ven_Msft\u0026Prod_Virtual_DVD-ROM\\2\u00261f4adffe\u00260\u0026000001"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft RRAS Root Enumerator",
+        "InstanceID":  "SWD\\MSRRAS\\{5e259276-bc7e-40e3-b93b-8f89b5f3abc0}"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Fax (redirected 1)",
+        "InstanceID":  "SWD\\PRINTENUM\\{0B212D6F-06C0-4529-A9D5-E01D539C2667}"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col02\\8\u00262fb6ff7c\u00261\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidvhf.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Virtual HID Framework (VHF) HID device",
+        "InstanceID":  "VHF\\HID_DEVICE_SYSTEM_VHF\\6\u00261aebe359\u00260\u0026A75CB9C360BC479E_Slot00"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_02\u0026Col01\\8\u002616a7af59\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidvhf.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Virtual HID Framework (VHF) HID device",
+        "InstanceID":  "VHF\\HID_DEVICE_SYSTEM_VHF\\7\u002631170c2b\u00260\u00262_Slot00"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (PPTP)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_PPTPMINIPORT"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem64.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Alienware",
+        "DeviceDescription":  "Alienware Command Center Win32 Component Device",
+        "InstanceID":  "SWD\\DRIVERENUM\\{cd19f03c-0638-4431-8592-e2eccd597c94}#AWCC_AWCCAppWinUI3_DCHU_Components\u00266\u00262591b817\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_048D\u0026PID_5702\u0026Col02\\6\u002639529d13\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_00\\8\u002628feeef\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#0000000000005000"
+    },
+    {
+        "ClassGUID":  "{eec5ad98-8080-425f-922a-dabf3de3f69a}",
+        "ClassName":  "WPD",
+        "DriverName":  "wpdfs.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "aigo    ",
+        "DeviceDescription":  "EasyU",
+        "InstanceID":  "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk\u0026Ven_aigo\u0026Prod_U330\u0026Rev_PMAP#99F0C90D0C86E453\u00260#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "OneNote (Desktop)",
+        "InstanceID":  "SWD\\PRINTENUM\\{49559181-99EC-45E1-B96F-5CE7A826214E}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "wvid.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Hyper-V Virtualization Infrastructure Driver",
+        "InstanceID":  "ROOT\\VID\\0000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_08BB\u0026PID_2902\u0026MI_02\\7\u00261a683e91\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A7D",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A7D\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026C9"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem64.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Alienware",
+        "DeviceDescription":  "Alienware Command Center Win32 Component Device",
+        "InstanceID":  "SWD\\DRIVERENUM\\{cd19f03c-0638-4431-8592-e2eccd597c94}#AWCC_AWCCAppWinUI3_DCHU_Components\u00266\u00263306edb5\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "High precision event timer",
+        "InstanceID":  "ACPI\\PNP0103\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\ISCLK"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col02\\8\u002628678780\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_00\\7\u00261e5d5b86\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "System timer",
+        "InstanceID":  "ACPI\\PNP0100\\4\u00267a92c67\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_187C\u0026PID_1010\\6\u0026a12abd0\u00260\u00263"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netavpna.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (IKEv2)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_AGILEVPNMINIPORT"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "compositebus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Composite Bus Enumerator",
+        "InstanceID":  "ROOT\\CompositeBus\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "vdrvroot.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Virtual Drive Enumerator",
+        "InstanceID":  "ROOT\\vdrvroot\\0000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "oem83.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Logitech",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C088\\A75CB9C360BC479E"
+    },
+    {
+        "ClassGUID":  "{4d36e968-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Display",
+        "DriverName":  "rdpidd.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Remote Display Adapter",
+        "InstanceID":  "SWD\\RemoteDisplayEnum\\RdpIdd_IndirectDisplay\u0026SessionId_0001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A4F",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A4F\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026AB"
+    },
+    {
+        "ClassGUID":  "{53d29ef7-377c-4d14-864b-eb3a85769359}",
+        "ClassName":  "Biometric",
+        "DriverName":  "oem39.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "\u003cChipSailing Electronics(ShenZhen)Co.,Ltd\u003e",
+        "DeviceDescription":  "ChipSailing Fingerprint UsbDriver",
+        "InstanceID":  "USB\\VID_2541\u0026PID_0236\\6\u0026a12abd0\u00260\u00261"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{75b9eb32-558a-11ef-9c6b-da7d818749c9}#0000000740400000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem15.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) iCLS Client",
+        "InstanceID":  "SWD\\DRIVERENUM\\OEM_ES_component\u00264\u00262f7091c1\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "oem19.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Logitech G HUB Virtual Mouse",
+        "InstanceID":  "LGHUBDevice\\VID_046D\u0026PID_C231\\1\u002679f5d87\u00260\u002602"
+    },
+    {
+        "ClassGUID":  "{4d36e97b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "SCSIAdapter",
+        "DriverName":  "spaceport.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Storage Spaces Controller",
+        "InstanceID":  "ROOT\\spaceport\\0000"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Alcor Micro USB Smart Card Reader 0",
+        "InstanceID":  "SWD\\ScDeviceEnum\\1_Alcor_Micro_USB_Smart_Card_Reader_0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col03\\8\u002610a3fb3b\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_187C\u0026PID_1010\\7\u002628c13a6e\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_02\\7\u00262e743af2\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{4d36e978-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Ports",
+        "DriverName":  "msports.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard port types)",
+        "DeviceDescription":  "Communications Port (COM1)",
+        "InstanceID":  "ACPI\\PNP0501\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "hdaudbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "High Definition Audio Controller",
+        "InstanceID":  "PCI\\VEN_10DE\u0026DEV_22BC\u0026SUBSYS_51381462\u0026REV_A1\\4\u00268bd6e8d\u00260\u00260108"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "kdnic.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Kernel Debug Network Adapter",
+        "InstanceID":  "ROOT\\KDNIC\\0000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "buttonconverter.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Converted Portable Device Control device",
+        "InstanceID":  "ButtonConverter\\ConvertedDevice\\4\u0026142359ae\u00260\u00260"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot1"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot2"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot3"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot4"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot5"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot6"
+    },
+    {
+        "ClassGUID":  "{533c5b84-ec70-11d2-9505-00c04f79deaf}",
+        "ClassName":  "VolumeSnapshot",
+        "DriverName":  "volsnap.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Generic volume shadow copy",
+        "InstanceID":  "STORAGE\\VolumeSnapshot\\HarddiskVolumeSnapshot7"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\INTC816\u0026Col01\\3\u00261535a34c\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbhub3.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB HUBs)",
+        "DeviceDescription":  "Generic USB Hub",
+        "InstanceID":  "USB\\VID_05E3\u0026PID_0608\\5\u002630741cdd\u00260\u002611"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col06\\3\u00261535a34c\u00260\u00260005"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_08BB\u0026PID_2902\u0026MI_02\\8\u0026110002f7\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "umbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "UMBus Enumerator",
+        "InstanceID":  "UMB\\UMB\\1\u0026841921d\u00260\u0026TS_USB_HUB_Enumerator"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "hdaudbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "High Definition Audio Controller",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A50\u0026SUBSYS_A1941458\u0026REV_11\\3\u002611583659\u00260\u0026FB"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C343\u0026MI_01\\7\u00262641e52a\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem45.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Dynamic Tuning Technology Updater Component",
+        "InstanceID":  "SWC\\VID8086_DTTCFG_1.0\\4\u00261a3a5bde\u00260\u002600"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "oem29.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Dell Inc.",
+        "DeviceDescription":  "Alienware AW2724DM(DisplayPort1 HDR)",
+        "InstanceID":  "DISPLAY\\DELA221\\1\u00268713bca\u00260\u0026UID0"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "oem63.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft Corporation",
+        "DeviceDescription":  "Xbox Wireless Adapter for Windows",
+        "InstanceID":  "USB\\VID_045E\u0026PID_02FE\\441051"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem51.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Realtek",
+        "DeviceDescription":  "Realtek(R) Audio",
+        "InstanceID":  "HDAUDIO\\FUNC_01\u0026VEN_10EC\u0026DEV_0897\u0026SUBSYS_1458A194\u0026REV_1004\\4\u002651dc071\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A4C",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A4C\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026A8"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col0E\\3\u00261535a34c\u00260\u0026000d"
+    },
+    {
+        "ClassGUID":  "{4d36e967-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "DiskDrive",
+        "DriverName":  "disk.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard disk drives)",
+        "DeviceDescription":  "AIC flash USB Device",
+        "InstanceID":  "USBSTOR\\Disk\u0026Ven_AIC\u0026Prod_flash\u0026Rev_1.0\\20200203\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_02\\7\u00262e743af2\u00261\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col02\\8\u00262b9c43e9\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col02\\8\u00261a537b34\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{5989fce8-9cd0-467d-8a6a-5419e31529d4}",
+        "ClassName":  "AudioProcessingObject",
+        "DriverName":  "oem79.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Logitech G series",
+        "DeviceDescription":  "Logitech HX2E Surround Sound Effect",
+        "InstanceID":  "SWD\\DRIVERENUM\\HX2ERender\u00267\u002628c00194\u00260"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\_??_USBSTOR#Disk\u0026Ven_aigo\u0026Prod_U330\u0026Rev_PMAP#99F0C90D0C86E453\u00260#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\INTC816\u0026Col10\\3\u00261535a34c\u00260\u0026000f"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col03\\8\u00262fb6ff7c\u00261\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "oem55.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel(R) Corporation",
+        "DeviceDescription":  "Intel(R) HID Event Filter",
+        "InstanceID":  "ACPI\\INTC1078\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_02\u0026Col02\\8\u002616a7af59\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot00"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot01"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot02"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot03"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot04"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot05"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026LAMPARRAY\\7\u00261e5d5b86\u00260\u00261_Slot06"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidvhf.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Virtual HID Framework (VHF) HID device",
+        "InstanceID":  "VHF\\HID_DEVICE_SYSTEM_VHF\\7\u00262641e52a\u00260\u0026F84102D8_Slot00"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Print to PDF",
+        "InstanceID":  "SWD\\PRINTENUM\\{3FFFC185-E0BE-4C07-867E-A218943AE1F4}"
+    },
+    {
+        "ClassGUID":  "{5989fce8-9cd0-467d-8a6a-5419e31529d4}",
+        "ClassName":  "AudioProcessingObject",
+        "DriverName":  "oem52.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Realtek",
+        "DeviceDescription":  "Realtek Audio Effects Component",
+        "InstanceID":  "SWD\\DRIVERENUM\\{c3a63edd-2d27-4b66-b155-5e94b43d926a}#RealtekAPO\u00265\u00262e2ee1d0\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "umbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "UMBus Root Bus Enumerator",
+        "InstanceID":  "ROOT\\UMBUS\\0000"
+    },
+    {
+        "ClassGUID":  "{f2e7dd72-6468-4e36-b6f1-6488f42c1b52}",
+        "ClassName":  "Firmware",
+        "DriverName":  "c_firmware.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Device Firmware",
+        "InstanceID":  "UEFI\\RES_{2fe2cbfc-b9aa-4a93-ab5b-40173b581c42}\\0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_048D\u0026PID_5702\\5\u002630741cdd\u00260\u002614"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) PCI Express Root Port #25 - 7A48",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A48\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026D0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant device",
+        "InstanceID":  "HID\\HID_DEVICE_SYSTEM_VHF\\8\u0026486bedf\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbstor.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Compatible USB storage device",
+        "DeviceDescription":  "USB Mass Storage Device",
+        "InstanceID":  "USB\\VID_325D\u0026PID_6410\\99F0C90D0C86E453"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "termkbd.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Remote Desktop Keyboard Device",
+        "InstanceID":  "TERMINPUT_BUS\\UMB\\2\u00262c22bcc9\u00260\u0026Session1Keyboard0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C088\u0026MI_00\\6\u00261aebe359\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{3e050da3-b774-70be-9d3c-b043ec9e6e92}",
+        "ClassName":  "Aic",
+        "DriverName":  "oem37.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "AIC",
+        "DeviceDescription":  "AIC Load Fw Driver",
+        "InstanceID":  "USB\\VID_A69C\u0026PID_8D80\\20220103"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col03\\8\u002628678780\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_01\\7\u00261e5d5b86\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "oem83.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Logitech",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\\6\u0026306893d8\u00260\u00261"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "oem83.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Logitech",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\\6\u0026306893d8\u00260\u00262"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_00\\7\u002631170c2b\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Radio Device Enumeration Bus",
+        "InstanceID":  "SWD\\RADIO\\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem68.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO GPIO Host Controller - INTC1085",
+        "InstanceID":  "ACPI\\INTC1085\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "termmou.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Remote Desktop Mouse Device",
+        "InstanceID":  "TERMINPUT_BUS\\UMB\\2\u00262c22bcc9\u00260\u0026Session1Mouse0"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "OneNote for Windows 10 (redirected 1)",
+        "InstanceID":  "SWD\\PRINTENUM\\{CE448E59-DC31-4379-9D03-30DC3CFD55D3}"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Device Association Root Enumerator",
+        "InstanceID":  "SWD\\MSDAS\\{ce958e9a-424f-4c88-86f4-11314821e75a}"
+    },
+    {
+        "ClassGUID":  "{4d36e966-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Computer",
+        "DriverName":  "hal.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard computers)",
+        "DeviceDescription":  "ACPI x64-based PC",
+        "InstanceID":  "ROOT\\ACPI_HAL\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\GigaLPCRS"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Speakers (Steam Streaming Microphone)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{fb400dad-01b0-41ec-801c-7fe7fdfd3635}"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "monitor.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard monitor types)",
+        "DeviceDescription":  "Generic Monitor",
+        "InstanceID":  "DISPLAY\\Default_Monitor\\1\u00261efbcd86\u00260\u0026UID256"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (Network Monitor)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_NDISWANBH"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (IP)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_NDISWANIP"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col04\\8\u002610a3fb3b\u00260\u00260003"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "wmiacpi.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Windows Management Interface for ACPI",
+        "InstanceID":  "ACPI\\PNP0C14\\TestDev"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "pci.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "PCI Express Root Complex",
+        "InstanceID":  "ACPI\\PNP0A08\\0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidvhf.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Virtual HID Framework (VHF) HID device",
+        "InstanceID":  "VHF\\HID_DEVICE_SYSTEM_VHF\\7\u00261e5d5b86\u00260\u00261_Slot00"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\ConvertedDevice\u0026Col01\\5\u002627cfa2af\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "monitor.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard monitor types)",
+        "DeviceDescription":  "Generic Monitor",
+        "InstanceID":  "DISPLAY\\Default_Monitor\\1\u0026c528b8a\u00260\u0026UID256"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "oem56.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Realtek",
+        "DeviceDescription":  "Realtek Gaming 2.5GbE Family Controller",
+        "InstanceID":  "PCI\\VEN_10EC\u0026DEV_8125\u0026SUBSYS_E0001458\u0026REV_05\\01000000684CE00000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbstor.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Compatible USB storage device",
+        "DeviceDescription":  "USB Mass Storage Device",
+        "InstanceID":  "USB\\VID_A69C\u0026PID_5723\\20200203"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant wireless radio controls",
+        "InstanceID":  "HID\\INTC816\u0026Col02\\3\u00261535a34c\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem40.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Innovation Platform Framework Manager",
+        "InstanceID":  "ACPI\\INTC10A0\\IETM"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col07\\3\u00261535a34c\u00260\u00260006"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem14.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Management Engine WMI Provider",
+        "InstanceID":  "SWD\\DRIVERENUM\\OEM_WMI_component\u00264\u00262f7091c1\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Power Button",
+        "InstanceID":  "ACPI\\PNP0C0C\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "acpi.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft ACPI-Compliant System",
+        "InstanceID":  "ACPI_HAL\\PNP0C08\\0"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Speakers (NVIDIA Broadcast)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{d2710b83-6037-40d9-954c-7c90ffee24b7}"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "Unknown",
+        "InstanceID":  "HTREE\\ROOT\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "basicrender.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Basic Render Driver",
+        "InstanceID":  "ROOT\\BasicRender\\0000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem43.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Innovation Platform Framework Extensible Framework Component",
+        "InstanceID":  "SWD\\DRIVERENUM\\{002c4697-5b34-4222-b9c9-6277b0869281}#IpfEfExtComponent\u00264\u00261a3a5bde\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C343\u0026MI_02\\7\u00262641e52a\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{4d36e97b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "SCSIAdapter",
+        "DriverName":  "stornvme.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Standard NVM Express Controller",
+        "DeviceDescription":  "Standard NVM Express Controller",
+        "InstanceID":  "PCI\\VEN_10EC\u0026DEV_5772\u0026SUBSYS_577210EC\u0026REV_01\\00000001004CE00000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem16.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Dynamic Application Loader Host Interface",
+        "InstanceID":  "SWD\\DRIVERENUM\\OEM_DAL_component\u00264\u00262f7091c1\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem4.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "datronicsoft Technology GmbH",
+        "DeviceDescription":  "spacedesk Android Control",
+        "InstanceID":  "ROOT\\SPACEDESK_ANDROID_CONTROL\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "oem22.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "datronicsoft",
+        "DeviceDescription":  "spacedesk Mouse",
+        "InstanceID":  "{0511CEC1-0EB4-4ADE-9284-CD36606C3906}\\VID_DATRONICSOFT\u0026PID_SPACEDESK_VIRTUAL_MOUSE_0001\\{00000000-0000-0000-0000-000000000000}9"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col0A\\3\u00261535a34c\u00260\u00260009"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "umbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Remote Desktop Camera Bus",
+        "InstanceID":  "UMB\\UMB\\1\u0026841921d\u00260\u0026RDCAMERA_BUS"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "umbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "UMBus Enumerator",
+        "InstanceID":  "UMB\\UMB\\1\u0026841921d\u00260\u0026TSBUS"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "FT SCR2000A 0",
+        "InstanceID":  "SWD\\ScDeviceEnum\\1_FT_SCR2000A_0"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "FT SCR2000A 1",
+        "InstanceID":  "SWD\\ScDeviceEnum\\1_FT_SCR2000A_1"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem28.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Valve Corporation Audio DDK",
+        "DeviceDescription":  "Steam Streaming Microphone",
+        "InstanceID":  "ROOT\\SteamStreamingMicrophone\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netsstpa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (SSTP)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_SSTPMINIPORT"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\INTC816\u0026Col0F\\3\u00261535a34c\u00260\u0026000e"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbhub3.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB HUBs)",
+        "DeviceDescription":  "Generic USB Hub",
+        "InstanceID":  "USB\\VID_0BDA\u0026PID_5409\\5\u002630741cdd\u00260\u00263"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem65.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) PCIe RC 010 G5 - A70D",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_A70D\u0026SUBSYS_50001458\u0026REV_01\\3\u002611583659\u00260\u002608"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant device",
+        "InstanceID":  "HID\\HID_DEVICE_SYSTEM_VHF\\7\u00269d2cd78\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#000001C3DB500000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "uefi.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft UEFI-Compliant System",
+        "InstanceID":  "ACPI_HAL\\UEFI\\0"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col03\\8\u00262b9c43e9\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_01\u0026Col03\\8\u00261a537b34\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{e1c7dabe-63de-4630-a4de-a4adc0503be3}",
+        "ClassName":  "DellInstrumentation",
+        "DriverName":  "oem74.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Dell Technologies",
+        "DeviceDescription":  "DellInstrumentation Device",
+        "InstanceID":  "ROOT\\DELLINSTRUMENTATION\\0000"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#000000FA02400000"
+    },
+    {
+        "ClassGUID":  "{f2e7dd72-6468-4e36-b6f1-6488f42c1b52}",
+        "ClassName":  "Firmware",
+        "DriverName":  "c_firmware.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Device Firmware",
+        "InstanceID":  "UEFI\\RES_{7aa69739-8f78-41cb-bf44-854e2cb516bd}\\0"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "oem38.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Aic Corp",
+        "DeviceDescription":  "Ugreen WIFI6 Wireless USB NIC",
+        "InstanceID":  "USB\\VID_368B\u0026PID_8D85\\20220103"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_00\\8\u00267c50627\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) SMBus - 7A23",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A23\u0026SUBSYS_50011458\u0026REV_11\\3\u002611583659\u00260\u0026FC"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "OneNote (Desktop) (redirected 1)",
+        "InstanceID":  "SWD\\PRINTENUM\\{340DBBB2-BFF1-43AA-A3C2-D36EE65C3183}"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\INTC816\u0026Col11\\3\u00261535a34c\u00260\u00260010"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A7C",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A7C\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026C8"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc06-35cf-11ef-9c06-806e6f6e6963}#0000000000100000"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbxhci.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Generic USB xHCI Host Controller",
+        "DeviceDescription":  "Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A60\u0026SUBSYS_50071458\u0026REV_11\\3\u002611583659\u00260\u0026A0"
+    },
+    {
+        "ClassGUID":  "{d94ee5d8-d189-4994-83d2-f68d7d41b0e6}",
+        "ClassName":  "SecurityDevices",
+        "DriverName":  "tpm.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard)",
+        "DeviceDescription":  "Trusted Platform Module 2.0",
+        "InstanceID":  "ACPI\\MSFT0101\\1"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Fixed Feature Button",
+        "InstanceID":  "ACPI\\FixedButton\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_02\u0026Col01\\8\u0026353c2eb4\u00261\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e967-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "DiskDrive",
+        "DriverName":  "disk.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard disk drives)",
+        "DeviceDescription":  "Samsung SSD 990 PRO 2TB",
+        "InstanceID":  "SCSI\\Disk\u0026Ven_NVMe\u0026Prod__Samsung_SSD_990\\5\u00269e8639a\u00260\u0026000000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem69.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Serial IO I2C Host Controller - 7A4E",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A4E\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026AA"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col01\\7\u002626b58c47\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem13.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Management Engine Interface #1",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A68\u0026SUBSYS_1C3A1458\u0026REV_11\\3\u002611583659\u00260\u0026B0"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Started",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "PRO WIRELESS LOL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C088\u0026LAMPARRAY\\6\u00261aebe359\u00260\u0026A75CB9C360BC479E_Slot00"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C088\u0026MI_01\\6\u00261aebe359\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_02\\7\u00261e5d5b86\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "oem36.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Logitech",
+        "DeviceDescription":  "G913 TKL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\\6\u0026306893d8\u00260\u00262"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "acpitime.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "ACPI Wake Alarm",
+        "InstanceID":  "ACPI\\ACPI000E\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\INTC109C\\4\u00267a92c67\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_01\\7\u002631170c2b\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e96e-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Monitor",
+        "DriverName":  "oem29.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Dell Inc.",
+        "DeviceDescription":  "Alienware AW2724DM(DisplayPort2 HDR)",
+        "InstanceID":  "DISPLAY\\DELA223\\5\u0026df7ad6\u00260\u0026UID4353"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) LPC Controller/eSPI Controller - 7A06",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A06\u0026SUBSYS_50011458\u0026REV_11\\3\u002611583659\u00260\u0026F8"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#000000FA01405000"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C232\\2\u00261a87f3a8\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem27.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Valve Corporation Audio DDK",
+        "DeviceDescription":  "Steam Streaming Speakers",
+        "InstanceID":  "ROOT\\SteamStreamingSpeakers\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "intelpep.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Power Engine Plug-in",
+        "InstanceID":  "ACPI\\INT33A1\\1"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidvhf.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Virtual HID Framework (VHF) HID device",
+        "InstanceID":  "VHF\\HID_DEVICE_SYSTEM_VHF\\7\u00262e743af2\u00261\u00262_Slot00"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem45.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Dynamic Tuning Technology Device Extension Component",
+        "InstanceID":  "SWD\\DRIVERENUM\\{bc7814a1-a80e-44b3-87c6-652eac676387}#DttExtComponent\u00264\u00261a3a5bde\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "xinputhid.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "XINPUT compatible HID device",
+        "InstanceID":  "HID\\VID_045E\u0026PID_0B12\u0026IG_00\\7\u00261c44329e\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col01\\7\u00262dc728f4\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col01\\8\u002613d8b7a4\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_00\\7\u002633333dce\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\ConvertedDevice\u0026Col02\\5\u002627cfa2af\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\IoTraps"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbhub3.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB HUBs)",
+        "DeviceDescription":  "Generic SuperSpeed USB Hub",
+        "InstanceID":  "USB\\VID_0BDA\u0026PID_0409\\5\u002630741cdd\u00260\u002619"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_01\u0026Col01\\8\u00263a7eed1b\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem26.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "datronicsoft",
+        "DeviceDescription":  "spacedesk virtual Bus",
+        "InstanceID":  "ROOT\\SPACEDESK_VIRTUAL_BUS\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem3.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "NVIDIA",
+        "DeviceDescription":  "NVIDIA Virtual Audio Device (Wave Extensible) (WDM)",
+        "InstanceID":  "ROOT\\UNNAMED_DEVICE\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem34.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "NVIDIA",
+        "DeviceDescription":  "NVIDIA Broadcast",
+        "InstanceID":  "ROOT\\UNNAMED_DEVICE\\0001"
+    },
+    {
+        "ClassGUID":  "{4d36e97b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "SCSIAdapter",
+        "DriverName":  "oem31.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Xbox",
+        "DeviceDescription":  "Xvdd SCSI Miniport",
+        "InstanceID":  "SWD\\XvddEnum\\XvddRootDevice_Instance"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\INTC816\u0026Col03\\3\u00261535a34c\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_00\\8\u0026bdfc1ba\u00261\u00260000"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft GS Wavetable Synth",
+        "InstanceID":  "SWD\\MMDEVAPI\\MicrosoftGSWavetableSynth"
+    },
+    {
+        "ClassGUID":  "{eec5ad98-8080-425f-922a-dabf3de3f69a}",
+        "ClassName":  "WPD",
+        "DriverName":  "wpdfs.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "AIC     ",
+        "DeviceDescription":  "UGREEN",
+        "InstanceID":  "SWD\\WPDBUSENUM\\_??_USBSTOR#Disk\u0026Ven_AIC\u0026Prod_flash\u0026Rev_1.0#20200203\u00260#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}"
+    },
+    {
+        "ClassGUID":  "{4d36e968-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Display",
+        "DriverName":  "oem8.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) UHD Graphics 770",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_A780\u0026SUBSYS_D0001458\u0026REV_04\\3\u002611583659\u00260\u002610"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col08\\3\u00261535a34c\u00260\u00260007"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_02\u0026Col02\\7\u0026de8b2a0\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Smart Card Device Enumeration Bus",
+        "InstanceID":  "SWD\\ScDeviceEnumBus\\0"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft Passport Container Enumeration Bus",
+        "InstanceID":  "SWD\\ScDeviceEnumBus\\1"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Speakers (Steam Streaming Speakers)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{11d9b35f-8620-438b-b5ab-cf8bf31cb302}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "tsusbhub.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Remote Desktop USB Hub",
+        "InstanceID":  "TS_USB_HUB_Enumerator\\UMB\\2\u002630d3618\u00260\u0026TS_USB_HUB"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_01\u0026Col01\\7\u002631bff062\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\0"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\1"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\2"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\3"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\4"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\5"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\6"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\7"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\8"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\9"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\a"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\b"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\c"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\d"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\e"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\f"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col0B\\3\u00261535a34c\u00260\u0026000a"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_02\u0026Col01\\7\u0026de8b2a0\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_DATRONICSOFT_PID_SPACEDESK_DRIVER_HID_0001\\2\u002619147eea\u00261\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e966-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Computer",
+        "DriverName":  "compdev.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Gigabyte Technology Co., Ltd. B760M D2H DDR4",
+        "InstanceID":  "SWD\\COMPUTER\\MFG_Gigabyte_Technology_Co.__Ltd.\u0026FAM_B760_MB\u0026PROD_B760M_D2H_DDR4\u0026SKU_Default_string"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col04\\8\u00262b9c43e9\u00260\u00260003"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "ndisvirtualbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "NDIS Virtual Network Adapter Enumerator",
+        "InstanceID":  "ROOT\\NdisVirtualBus\\0000"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Realtek Digital Output (Realtek(R) Audio)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{9da873c0-a336-402e-992d-b4a922534ae8}"
+    },
+    {
+        "ClassGUID":  "{4d36e96b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Keyboard",
+        "DriverName":  "keyboard.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard keyboards)",
+        "DeviceDescription":  "HID Keyboard Device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_00\\8\u0026347b38fd\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant device",
+        "InstanceID":  "HID\\HID_DEVICE_SYSTEM_VHF\\8\u0026133b529a\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\PNP0C02\\4\u00267a92c67\u00260\u00262"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "G913 TKL",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot00"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot01"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot02"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot03"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot04"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot05"
+    },
+    {
+        "ClassGUID":  "Unknown",
+        "ClassName":  "Unknown",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Unknown",
+        "DeviceDescription":  "LIGHTSPEED Receiver",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026LAMPARRAY\\7\u00262e743af2\u00261\u00262_Slot06"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "buttonconverter.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Portable Device Control device",
+        "InstanceID":  "HID\\INTC816\u0026Col12\\3\u00261535a34c\u00260\u00260011"
+    },
+    {
+        "ClassGUID":  "{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}",
+        "ClassName":  "PrintQueue",
+        "DriverName":  "printqueue.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "GLBEHVXRX1PRAZY (redirected 1)",
+        "InstanceID":  "SWD\\PRINTENUM\\{FBD70E91-0272-412A-87A7-B1564FE9DF89}"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C547\u0026MI_02\u0026Col02\\8\u0026353c2eb4\u00261\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "oem19.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Logitech G HUB Virtual Keyboard",
+        "InstanceID":  "LGHUBDevice\\VID_046D\u0026PID_C232\\1\u002679f5d87\u00260\u002601"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C231\\2\u00262fdf093d\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "SCSIAdapter",
+        "DriverName":  "vhdmp.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Microsoft VHD Loopback Controller",
+        "InstanceID":  "{8e7bd593-6e6c-4c52-86a6-77175494dd8e}\\MsVhdHba\\1\u00263030e83\u00260\u002601"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) PCI Express Root Port #3 - 7A3A",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A3A\u0026SUBSYS_50011458\u0026REV_11\\3\u002611583659\u00260\u0026E2"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "wdma_usb.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Generic USB Audio)",
+        "DeviceDescription":  "USB PnP Sound Device",
+        "InstanceID":  "USB\\VID_08BB\u0026PID_2902\u0026MI_00\\7\u00261a683e91\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "ZTE",
+        "DeviceDescription":  "天翼网关",
+        "InstanceID":  "SWD\\DAFUPnPProvider\\uuid:10809696-105a-3721-e8b8-ecc3b0050120"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col02\\7\u002626b58c47\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\10"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\11"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\12"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\13"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\14"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\15"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\16"
+    },
+    {
+        "ClassGUID":  "{50127dc3-0f36-415e-a6cc-4cb3be910b65}",
+        "ClassName":  "Processor",
+        "DriverName":  "cpu.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "13th Gen Intel(R) Core(TM) i7-13700",
+        "InstanceID":  "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_183_-_13th_Gen_Intel(R)_Core(TM)_i7-13700\\17"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C088\u0026MI_02\\6\u00261aebe359\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usb.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB Host Controller)",
+        "DeviceDescription":  "USB Composite Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\\5\u002630741cdd\u00260\u00266"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usb.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard USB Host Controller)",
+        "DeviceDescription":  "USB Composite Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_0ABA\\5\u002630741cdd\u00260\u00269"
+    },
+    {
+        "ClassGUID":  "{4d36e96a-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "HDC",
+        "DriverName":  "mshdc.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Standard SATA AHCI Controller",
+        "DeviceDescription":  "Standard SATA AHCI Controller",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A62\u0026SUBSYS_B0051458\u0026REV_11\\3\u002611583659\u00260\u0026B8"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C539\u0026MI_02\\7\u002631170c2b\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem32.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Alienware",
+        "DeviceDescription":  "Alienware Command Center Win32 Component Device",
+        "InstanceID":  "SWD\\DRIVERENUM\\{cd19f03c-0638-4431-8592-e2eccd597c94}#AWCC_AWCCAppWinUI3_DCHU_Components\u00262\u00261a77cf\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e968-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Display",
+        "DriverName":  "oem24.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "datronicsoft",
+        "DeviceDescription":  "spacedesk Graphics Adapter",
+        "InstanceID":  "SWD\\{1BAAD4AC-CD9D-4207-B4FF-C4F160604B13}\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "PCI standard host CPU bridge",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_A703\u0026SUBSYS_50001458\u0026REV_01\\3\u002611583659\u00260\u002600"
+    },
+    {
+        "ClassGUID":  "{4d36e96f-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Mouse",
+        "DriverName":  "msmouse.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant mouse",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_01\u0026Col01\\8\u002610a3fb3b\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_00\\7\u00262e743af2\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "mssmbios.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Microsoft System Management BIOS Driver",
+        "InstanceID":  "ROOT\\mssmbios\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Motherboard resources",
+        "InstanceID":  "ACPI\\INT340E\\2\u0026daba3ff\u00260"
+    },
+    {
+        "ClassGUID":  "{36fc9e60-c465-11cf-8056-444553540000}",
+        "ClassName":  "USB",
+        "DriverName":  "usbhub3.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard USB HUBs)",
+        "DeviceDescription":  "USB Root Hub (USB 3.0)",
+        "InstanceID":  "USB\\ROOT_HUB30\\4\u0026c7355c0\u00260\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_0ABA\u0026MI_03\u0026Col02\\7\u00262dc728f4\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant vendor-defined device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C539\u0026MI_02\u0026Col02\\8\u002613d8b7a4\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e96c-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "MEDIA",
+        "DriverName":  "oem7.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "NVIDIA",
+        "DeviceDescription":  "NVIDIA High Definition Audio",
+        "InstanceID":  "HDAUDIO\\FUNC_01\u0026VEN_10DE\u0026DEV_00A5\u0026SUBSYS_14625138\u0026REV_1001\\5\u0026363cfd8c\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\ConvertedDevice\u0026Col03\\5\u002627cfa2af\u00260\u00260002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C343\u0026MI_01\u0026Col02\\8\u00263a7eed1b\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "machine.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Programmable interrupt controller",
+        "InstanceID":  "ACPI\\PNP0000\\4\u00267a92c67\u00260"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "swenum.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Plug and Play Software Device Enumerator",
+        "InstanceID":  "ROOT\\SYSTEM\\0000"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem33.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "Logitech G HUB Virtual Bus Enumerator",
+        "InstanceID":  "ROOT\\SYSTEM\\0001"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem71.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Oray Technologies, Inc.",
+        "DeviceDescription":  "Oray Virtual Game Controller",
+        "InstanceID":  "ROOT\\SYSTEM\\0002"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant system controller",
+        "InstanceID":  "HID\\INTC816\u0026Col04\\3\u00261535a34c\u00260\u00260003"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\{58e0fc07-35cf-11ef-9c06-806e6f6e6963}#000001DCDBF00000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem9.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel Corporation",
+        "DeviceDescription":  "Intel(R) Graphics Command Center",
+        "InstanceID":  "SWD\\DRIVERENUM\\IGCC\u00264\u00261ff378d5\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col09\\3\u00261535a34c\u00260\u00260008"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "rdpbus.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Remote Desktop Device Redirector Bus",
+        "InstanceID":  "ROOT\\RDPBUS\\0000"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem45.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Intel",
+        "DeviceDescription":  "Intel(R) Dynamic Tuning Technology Updater Component",
+        "InstanceID":  "SWD\\DRIVERENUM\\{7d4fedf2-d555-4079-9e17-1dc620214757}#DttCfgExtComponent\u00264\u00261a3a5bde\u00260"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\VID_046D\u0026PID_C088\u0026MI_01\u0026Col02\\7\u002631bff062\u00260\u00260001"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (IPv6)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_NDISWANIPV6"
+    },
+    {
+        "ClassGUID":  "{4d36e97b-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "SCSIAdapter",
+        "DriverName":  "stornvme.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Standard NVM Express Controller",
+        "DeviceDescription":  "Standard NVM Express Controller",
+        "InstanceID":  "PCI\\VEN_15B7\u0026DEV_5025\u0026SUBSYS_502515B7\u0026REV_01\\4\u002631b1139f\u00260\u00260030"
+    },
+    {
+        "ClassGUID":  "{71a27cdd-812a-11d0-bec7-08002be2092f}",
+        "ClassName":  "Volume",
+        "DriverName":  "volume.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Volume",
+        "InstanceID":  "STORAGE\\Volume\\_??_USBSTOR#Disk\u0026Ven_AIC\u0026Prod_flash\u0026Rev_1.0#20200203\u00260#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem65.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) PCIe RC 060 (x4) G4 - A74D",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_A74D\u0026SUBSYS_00000000\u0026REV_01\\3\u002611583659\u00260\u002630"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "hidserv.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "HID-compliant consumer control device",
+        "InstanceID":  "HID\\INTC816\u0026Col0C\\3\u00261535a34c\u00260\u0026000b"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "USB Input Device",
+        "InstanceID":  "USB\\VID_046D\u0026PID_C547\u0026MI_00\\7\u00262e743af2\u00261\u00260000"
+    },
+    {
+        "ClassGUID":  "{745a17a0-74d3-11d0-b6fe-00a0c90f57da}",
+        "ClassName":  "HIDClass",
+        "DriverName":  "input.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "(Standard system devices)",
+        "DeviceDescription":  "HID-compliant device",
+        "InstanceID":  "HID\\HID_DEVICE_SYSTEM_VHF\\7\u00262c2e53d9\u00260\u00260000"
+    },
+    {
+        "ClassGUID":  "{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}",
+        "ClassName":  "AudioEndpoint",
+        "DriverName":  "audioendpoint.inf",
+        "Status":  "Disconnected",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Speakers (2- Logitech PRO X Wireless Gaming Headset)",
+        "InstanceID":  "SWD\\MMDEVAPI\\{0.0.0.00000000}.{b923438d-2ef9-4b60-bedb-3b88092f9124}"
+    },
+    {
+        "ClassGUID":  "{4d36e97d-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "System",
+        "DriverName":  "oem66.inf",
+        "Status":  "Stopped",
+        "ManufacturerName":  "INTEL",
+        "DeviceDescription":  "Intel(R) Shared SRAM - 7A27",
+        "InstanceID":  "PCI\\VEN_8086\u0026DEV_7A27\u0026SUBSYS_00000000\u0026REV_11\\3\u002611583659\u00260\u0026A2"
+    },
+    {
+        "ClassGUID":  "{4d36e972-e325-11ce-bfc1-08002be10318}",
+        "ClassName":  "Net",
+        "DriverName":  "netrasa.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "WAN Miniport (L2TP)",
+        "InstanceID":  "SWD\\MSRRAS\\MS_L2TPMINIPORT"
+    },
+    {
+        "ClassGUID":  "{62f9c741-b25a-46ce-b54c-9bccce08b6f2}",
+        "ClassName":  "SoftwareDevice",
+        "DriverName":  "c_swdevice.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Microsoft",
+        "DeviceDescription":  "Windows Hello for Business 1",
+        "InstanceID":  "SWD\\ScDeviceEnum\\1_Windows_Hello_for_Business_1"
+    },
+    {
+        "ClassGUID":  "{5c4c3332-344d-483c-8739-259e934c9cc8}",
+        "ClassName":  "SoftwareComponent",
+        "DriverName":  "oem54.inf",
+        "Status":  "Started",
+        "ManufacturerName":  "Realtek",
+        "DeviceDescription":  "Realtek Hardware Support Application",
+        "InstanceID":  "SWD\\DRIVERENUM\\{c3a63edd-2d27-4b66-b155-5e94b43d926a}#RealtekHSA\u00265\u00262e2ee1d0\u00260"
+    }
+]

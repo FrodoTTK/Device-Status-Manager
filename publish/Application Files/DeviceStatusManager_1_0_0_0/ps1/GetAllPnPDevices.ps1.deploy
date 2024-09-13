@@ -1,0 +1,54 @@
+# script.ps1
+# 获取当前脚本的执行目录
+$currentDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
+
+# 定义输出文件名
+$outputFile = Join-Path $currentDirectory "..\\PnPDevices.json"
+
+# 执行 pnputil 命令并捕获输出
+$pnputilOutput = & pnputil /enum-devices
+
+# 初始化空的设备信息列表
+$devices = @()
+$currentDevice = @{}
+
+# 解析 pnputil 的输出
+foreach ($line in $pnputilOutput) {
+    # 匹配 Instance ID 行
+    if ($line -match '^Instance ID:\s*(.+)') {
+        if ($currentDevice.Count -gt 0) {
+            $devices += [PSCustomObject]$currentDevice
+            $currentDevice = @{}
+        }
+        $currentDevice['InstanceID'] = $matches[1]
+    }
+    elseif ($line -match '^Device Description:\s*(.+)') {
+        $currentDevice['DeviceDescription'] = $matches[1]
+    }
+    elseif ($line -match '^Class Name:\s*(.+)') {
+        $currentDevice['ClassName'] = $matches[1]
+    }
+    elseif ($line -match '^Class GUID:\s*(.+)') {
+        $currentDevice['ClassGUID'] = $matches[1]
+    }
+    elseif ($line -match '^Manufacturer Name:\s*(.+)') {
+        $currentDevice['ManufacturerName'] = $matches[1]
+    }
+    elseif ($line -match '^Status:\s*(.+)') {
+        $currentDevice['Status'] = $matches[1]
+    }
+    elseif ($line -match '^Driver Name:\s*(.+)') {
+        $currentDevice['DriverName'] = $matches[1]
+    }
+}
+
+# 添加最后一个设备信息
+if ($currentDevice.Count -gt 0) {
+    $devices += [PSCustomObject]$currentDevice
+}
+
+# 将设备信息格式化为 JSON 并保存到文件
+$devices | ConvertTo-Json | Set-Content -Path $outputFile
+
+# 输出结果
+Write-Output "Device information saved to $outputFile"
